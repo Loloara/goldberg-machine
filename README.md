@@ -26,5 +26,7 @@
 - 모터의 회전 운동력을 풍선을 터뜨리기 위해 수평운동으로 변환하는 방법을 고민해야 했다.
 - 시연하는 곳의 조명 밝기에 따라서 조도 센서 초기값을 새로 세팅해야하는 이슈가 있었다.
 
-## Won the prize from SKT
+## Won the prize from [2017 SKT IoT Makerton]
 ![Alt text](/images/prize.jpg?raw=true "Prize")
+
+[2017 SKT IoT Makerton]: http://fablab-seoul.org/skt_iot_makeathon
